@@ -15,7 +15,7 @@ Modelar la **probabilidad de incumplimiento de pago** (PD) de los clientes banca
 ## Instrucciones para ejecutar el proyecto
 
 1. Ingresar al [Google Colab notebook](https://colab.research.google.com/drive/1e-Ae89NbuEN_fPJno1GoRwC4LEJrYlUU?usp=sharing).
-2. Subir el archivo `IMORA.xlsx` a tu sesión de Colab (`Files` > `Upload`).
+2. Subir el archivo `IMORA.xlsx` a la sesión de Colab (`Files` > `Upload`).
 3. Ejecutar las celdas para generar los modelos y visualizar los resultados.
   
 ## Herramientas utilizadas
