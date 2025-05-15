@@ -2,7 +2,7 @@
 
 Este proyecto fue desarrollado como parte del curso de **Administración Integral de Riesgos** en la Benemérita Universidad Autónoma de Puebla.
 
-## 🧠 Objetivo
+## Objetivo
 
 Modelar la **probabilidad de incumplimiento de pago** (PD) de los clientes bancarios utilizando variables macroeconómicas reales extraídas de la API de Banxico, aplicando modelos estadísticos en Python.
 
