@@ -1,4 +1,4 @@
-# Proyecto: Pruebas de estres
+# Proyecto: Riesgo de credito
 
 Este proyecto fue desarrollado como parte del curso de **Administración Integral de Riesgos** en la Benemérita Universidad Autónoma de Puebla.
 
