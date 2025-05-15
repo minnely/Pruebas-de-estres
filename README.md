@@ -10,11 +10,11 @@ Modelar la **probabilidad de incumplimiento de pago** (PD) de los clientes banca
 
 -  [Reporte en PDF (Pruebas de Estrés - MRV)](./Pruebas_de_Estres_MRV.pdf)
 -  [`IMORA.xlsx`](./IMORA.xlsx) – Base de datos usada en el notebook.
--  [Notebook en Google Colab (código Python)](https://colab.research.google.com/drive/1xKpR5AzPdna3fClrBxkataRsE_zOVg9D?usp=sharing)
+-  [Notebook en Google Colab (código Python)](https://colab.research.google.com/drive/1e-Ae89NbuEN_fPJno1GoRwC4LEJrYlUU?usp=sharing)
 
 ## Instrucciones para ejecutar el proyecto
 
-1. Ingresar al [Google Colab notebook](https://colab.research.google.com/drive/1xKpR5AzPdna3fClrBxkataRsE_zOVg9D?usp=sharing).
+1. Ingresar al [Google Colab notebook](https://colab.research.google.com/drive/1e-Ae89NbuEN_fPJno1GoRwC4LEJrYlUU?usp=sharing).
 2. Subir el archivo `IMORA.xlsx` a tu sesión de Colab (`Files` > `Upload`).
 3. Ejecutar las celdas para generar los modelos y visualizar los resultados.
   
